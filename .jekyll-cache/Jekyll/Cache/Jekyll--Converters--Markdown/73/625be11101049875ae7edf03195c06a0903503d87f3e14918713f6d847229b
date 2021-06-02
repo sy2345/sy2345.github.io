@@ -1,37 +1,4 @@
-<!doctype html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>Ex2</title>
-    <link rel="stylesheet" href="/assets/css/styles.css" />
-</head>
-
-<body>
-    <nav>
-    
-      <a href="/" >Home</a>
-    
-      <a href="/about.html" >About</a>
-    
-      <a href="/test.html" >Test</a>
-    
-      <a href="/blog.html" >Blog</a>
-    
-      <a href="/staff.html" >Staff</a>
-    
-  </nav>
-    <h1>Ex2</h1>
-
-<p>
-  07 May 2021
-  
-  
-    - <a href="/authors/SY.html">SY</a>
-  
-</p>
-
-<h2 id="第二次的作业">第二次的作业</h2>
+I"�<h2 id="第二次的作业">第二次的作业</h2>
 
 <h1 id="一网站目录结构">一、网站目录结构</h1>
 <p><img src="/assets/image/ex2_1.jpg" alt="structure1" /></p>
@@ -65,8 +32,4 @@
 
 <h1 id="四总结">四、总结</h1>
 <p>在这次实验中，我遇到很多困难，也收获了许多。在前面几步的实验操作中，虽然步骤很多，操作繁琐，一步出错或者命令、格式出错就会导致最后的显示出错，且对于有些命令的含义和用法不是很清楚。但只要重复跟着教程做几遍就会慢慢理解。令我最为苦恼的是后面有关nginx的实验内容。我遇到的最大问题是当在Ubuntu上安装和启动nginx时，必须在命令行的最前面加上sudo，sudo允许系统管理员让普通用户执行一些或者全部的root命令。当启动nginx失败时，我采用的做法是卸载nginx，重新安装nginx，因为一些nginx配件出错或者不全。</p>
-
-    
-</body>
-
-</html>
+:ET
